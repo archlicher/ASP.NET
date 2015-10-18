@@ -1,0 +1,14 @@
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\BaseMVC.Model.dll.config
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\BaseMVC.Model.dll
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\BaseMVC.Model.pdb
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\EntityFramework.dll
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\EntityFramework.xml
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\obj\Debug\BaseMVC.Model.csprojResolveAssemblyReference.cache
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\obj\Debug\BaseMVC.Model.dll
+D:\SoftUni\ASP.NET_MVC\BaseMVC\BaseMVC.Model\obj\Debug\BaseMVC.Model.pdb
